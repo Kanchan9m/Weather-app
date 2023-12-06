@@ -1,2 +1,2 @@
-# music_app
+# Weather app
 Created a music player using Django.
